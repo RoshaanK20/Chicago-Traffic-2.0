@@ -1,4 +1,4 @@
-🚦 Chicago Traffic Congestion Prediction (ML Project)
+🚦Chicago Traffic Congestion Prediction (ML Project)
 
 This project uses real-world data from the **City of Chicago** to analyze and predict traffic congestion levels based on time and region using **Machine Learning** models.  
 Originally built in my **3rd semester** as part of my BS in Artificial Intelligence program, and now improved in my **4th semester** with better accuracy, visuals, and cleaner code.
