@@ -67,5 +67,5 @@ Example:
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/chicago-traffic-congestion.git
+   git clone https://github.com/RoshaanK20/chicago-traffic-congestion.git
    cd chicago-traffic-congestion
